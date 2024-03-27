@@ -1,7 +1,7 @@
 S5-L3
 Non ci sono differenze tra scansione SYN o TCP.
 Nella scansione OS fingerprint di windows una causa per la quale delle porte
-siano unknow potrebbe essere per dei dispositivi di sicurezza come IPS/IDS.
+siano not shown potrebbe essere per dei dispositivi di sicurezza come IPS/IDS.
 Una soluzione può essere di utilizzare il timing.
 Un altrta ancora di eliminare il parallelelismo poichè nmap usa un approccio multi-thred in caso debba 
 scansionare più IP.
